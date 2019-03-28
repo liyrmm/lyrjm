@@ -562,6 +562,7 @@ footer{
     width: 54px;
     background: rgb(201, 0, 0);
     text-align: center;
+    cursor: pointer;
 }
 .top-item i{
     font-size: 30px;

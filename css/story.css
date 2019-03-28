@@ -1,0 +1,72 @@
+.story{
+    border-top: 1px dotted rgba(191,191,191,1);
+    padding-top: 30px;
+    padding-bottom: 100px;
+    width: 100%;
+    height: 1006.840px;
+}
+.story-bd{
+    height: 100%;
+    width: 1020px;
+    padding: 0 40px;
+    margin: 0 auto;
+}
+.story-bd-main{
+    width: 66.66666666666666%;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-sizing: border-box;
+}
+.story-tit{
+    padding-top: 33px;
+    padding-bottom: 34px;
+    width: 100%;
+    height: 53px;
+}
+.story-tit-c{
+    font-size:26px;
+    color:#000000;
+    font-family:宋体;
+    line-height: 30px;
+    font-weight: 700;
+}
+.story-tit-e{
+    font-size:14px;
+    color:#A9A9A9;
+    font-family:times new roman;
+    line-height: 25px;
+}
+.story-img{
+    width:670px;
+height: 191.922px;
+}
+.story-img img{
+ width: 100%;
+ height: 100%;   
+}
+.spring{
+    padding-top: 41px;
+    padding-bottom: 20px;
+    width: 670px;
+    height: 150px;
+}
+.spring-tit{
+    color:#000000;
+    font-size:20px;
+    letter-spacing:0px;
+    font-family:宋体;
+    line-height: 26px;
+    font-weight: 700;
+}
+.spring-blank{
+    width: 670px;
+    height: 24px;
+}
+.spring-content{
+    text-align: left;
+    color:#808080;
+    font-size:12px;
+    letter-spacing:0px;
+    font-family:宋体;
+    line-height: 2em;
+}
