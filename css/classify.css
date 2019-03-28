@@ -1,0 +1,25 @@
+.classify{
+    width: 100%;
+    height: 2591.97px;
+}
+.class-img{
+    width: 100%;
+    height: 295.05px;
+    border-top: 1px dotted rgba(191,191,191,1);
+    border-bottom: 1px dotted rgba(191,191,191,1);
+}
+.class-img img{
+     width: 100%;
+     height: 100%;
+ }   
+.classify .main{
+width: 1020px;
+height: 2164.880px;
+padding: 30px 40px 0;
+margin: 0 auto;
+}
+.class-bd{
+width: 1020px;
+height:810.203px;
+padding:40px;
+}

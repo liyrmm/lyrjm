@@ -1,0 +1,38 @@
+.shopcar-main{
+    width: 100%;
+    height: 311px;
+    border-top: 1px dotted rgba(191,191,191,1);
+    padding-top: 30px;
+    padding-bottom: 100px;
+    box-sizing: border-box;
+}
+.shopcar-main .word{
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal;
+    color: rgb(119, 119, 119);
+    font-family: 微软雅黑;
+    width: 1010px;
+    height: 19px;
+    margin: 0 auto; 
+      margin-top: 50px;
+}
+.shopcar-main .return{
+    width: 83px;
+    height: 16px;
+    margin: 0 auto;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+    border: 1px solid #777777;
+    white-space: nowrap;
+    margin-top: 20px;
+    display: block;
+    color:  #777777;
+    line-height: 16px;
+}
+.shopcar-main .return:hover{
+    color: #000;
+    border: 1px solid #000;
+}
